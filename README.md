@@ -1,25 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=header"/>
 
-# Olá, bem-vindo(a) ao meu GitHub 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Camila+Debage+de+Souza;Tenho+20+anos+de+idade;Sou+de+Viradouro-SP,Brasil;Seja+Bem-Vindo(a)+:%29)](https://git.io/typing-svg)
 
 
 ## Entre em contato:
-* ✉ camiladebage@hotmail.com - camiladebage@gmail.com
-* 🟦  linkedin.com/in/camila-debage-472227186
-* (https://img.shields.io/badge/Java-0075B5?style=flat&logo=facebook&logoColor=white) Camila Debage
-* <img src="https://github.com/CamilaDebagedeSouza/CamilaDebagedeSouza/blob/main/instagram.png"/> camila_debage
+* ![Gmail](https://img.shields.io/badge/Gmail-0075B5?style=flat&logo=gmail&logoColor=white) camiladebage@gmail.com
+* ![Linkedin](https://img.shields.io/badge/Linkedin-0075B5?style=flat&logo=linkedin&logoColor=white) linkedin.com/in/camila-debage-472227186
+* ![Facebook](https://img.shields.io/badge/Facebook-0075B5?style=flat&logo=facebook&logoColor=white) Camila Debage
+* ![Instagram](https://img.shields.io/badge/Instagram-0075B5?style=flat&logo=instagram&logoColor=white) camila_debage
 
-
-
-
-<!-- ## Entre em contato comigo: 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> -->
 
 ## Tecnologias que estou aprendendo: 
 
