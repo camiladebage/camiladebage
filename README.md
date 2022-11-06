@@ -10,6 +10,22 @@
 * ![Facebook](https://img.shields.io/badge/Facebook-0075B5?style=flat&logo=facebook&logoColor=white) Camila Debage
 * ![Instagram](https://img.shields.io/badge/Instagram-0075B5?style=flat&logo=instagram&logoColor=white) camila_debage
 
+## Sobre:
+
+Trabalho com estágio em tecnologia da informação a 2 anos
+usando ferramentas e linguagens em níveis básicos como:
+
+C# <br>
+.NET <br>
+Entity Framework <br>
+SQL Server <br>
+
+Conhecimento acadêmico em:
+Xamarin <br>
+Python e Django <br>
+HTML, CSS e Javascript <br>
+Java
+
 
 ## Tecnologias que estou aprendendo: 
 
