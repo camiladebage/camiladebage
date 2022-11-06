@@ -20,7 +20,7 @@ C# <br>
 Entity Framework <br>
 SQL Server <br>
 
-Conhecimento acadêmico em:
+Conhecimento acadêmico em: <br>
 Xamarin <br>
 Python e Django <br>
 HTML, CSS e Javascript <br>
@@ -29,13 +29,13 @@ Java
 
 ## Tecnologias que estou aprendendo: 
 
-![Python](https://img.shields.io/badge/Python-0075B5?style=flat&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-0075B5?style=flat&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0075B5?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0075B5?style=flat&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0075B5?style=flat&logo=JAVASCRIPT&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0075B5?style=flat&logo=java&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-0075B5?style=flat&logo=python&logoColor=white) <br>
+![CSharp](https://img.shields.io/badge/C%23-0075B5?style=flat&logo=c-sharp&logoColor=white) <br>
+![HTML](https://img.shields.io/badge/HTML-0075B5?style=flat&logo=html5&logoColor=white) <br>
+![CSS](https://img.shields.io/badge/CSS-0075B5?style=flat&logo=css&logoColor=white) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-0075B5?style=flat&logo=JAVASCRIPT&logoColor=white) <br>
+![Java](https://img.shields.io/badge/Java-0075B5?style=flat&logo=java&logoColor=white) <br>
+![Xamarin](https://img.shields.io/badge/Xamarin-0075B5?style=flat&logo=xamarin&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=footer"/>
 
