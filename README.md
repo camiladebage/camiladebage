@@ -29,22 +29,29 @@ Java
 
 ## Tecnologias que estou aprendendo: 
 
-![Python](https://img.shields.io/badge/Python-0075B5?style=flat&logo=python&logoColor=white) 
-![CSharp](https://img.shields.io/badge/C%23-0075B5?style=flat&logo=c-sharp&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-0075B5?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-0075B5?style=flat&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-0075B5?style=flat&logo=JAVASCRIPT&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-0075B5?style=flat&logo=java&logoColor=white) 
-![Xamarin](https://img.shields.io/badge/Xamarin-0075B5?style=flat&logo=xamarin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117) 
+![CSharp](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=CSHARP&labelColor=0D1117) 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117) 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117) 
+![JavaScript](https://img.shields.io/badge/-Java%20Script-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117) 
+![Xamarin](https://img.shields.io/badge/-Xamarin-0D1117?style=for-the-badge&logo=xamarin&labelColor=0D1117)
 
 ## Ferramentas que já utilizei: 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Azure Devops](https://img.shields.io/badge/Azure%20Devops-0075B5?style=flat&logo=azure-devops&logoColor=white)&nbsp;
+![Azure Devops](https://img.shields.io/badge/Azure%20Devops-0D1117?style=for-the-badge&logo=azure-devops&labelColor=0D1117)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi&labelColor=0D1117)&nbsp;
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-0D1117?style=for-the-badge&logo=power-apps&labelColor=0D1117)&nbsp;
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=power-automate&labelColor=0D1117)&nbsp;
+![File Zilla](https://img.shields.io/badge/-FileZilla-0D1117?style=for-the-badge&logo=filezilla&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 
+##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camiladebage&show_icons=true&count_private=true&hide_border=true&title_color=0075B5&icon_color=0075B5&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camiladebage&show_icons=true&count_private=true&hide_border=true&title_color=0075B5&icon_color=0075B5&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladebage&layout=compact&hide_border=true&title_color=0075B5&text_color=0075B5&bg_color=0d1117" />
 </div>
 
