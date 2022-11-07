@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0075B5&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo(a),+meu+nome+é+Camila+Debage+de+Souza;Sou+de+Viradouro-SP,Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0075B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Camila+Debage+de+Souza;Sou+de+Viradouro-SP,Brasil)](https://git.io/typing-svg)
 
 
 ## Entre em contato:
@@ -29,13 +29,30 @@ Java
 
 ## Tecnologias que estou aprendendo: 
 
-![Python](https://img.shields.io/badge/Python-0075B5?style=flat&logo=python&logoColor=white) <br>
-![CSharp](https://img.shields.io/badge/C%23-0075B5?style=flat&logo=c-sharp&logoColor=white) <br>
-![HTML](https://img.shields.io/badge/HTML-0075B5?style=flat&logo=html5&logoColor=white) <br>
-![CSS](https://img.shields.io/badge/CSS-0075B5?style=flat&logo=css&logoColor=white) <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-0075B5?style=flat&logo=JAVASCRIPT&logoColor=white) <br>
-![Java](https://img.shields.io/badge/Java-0075B5?style=flat&logo=java&logoColor=white) <br>
+![Python](https://img.shields.io/badge/Python-0075B5?style=flat&logo=python&logoColor=white) 
+![CSharp](https://img.shields.io/badge/C%23-0075B5?style=flat&logo=c-sharp&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-0075B5?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-0075B5?style=flat&logo=css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-0075B5?style=flat&logo=JAVASCRIPT&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-0075B5?style=flat&logo=java&logoColor=white) 
 ![Xamarin](https://img.shields.io/badge/Xamarin-0075B5?style=flat&logo=xamarin&logoColor=white)
+
+## Ferramentas que já utilizei: 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Azure Devops](https://img.shields.io/badge/Azure%20Devops-0075B5?style=flat&logo=azure-devops&logoColor=white)&nbsp;
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camiladebage&show_icons=true&count_private=true&hide_border=true&title_color=0075B5&icon_color=0075B5&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladebage&layout=compact&hide_border=true&title_color=0075B5&text_color=0075B5&bg_color=0d1117" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=camiladebage&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=camiladebage&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=footer"/>
 
