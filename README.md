@@ -12,7 +12,7 @@
 
 ## Sobre:
 
-Trabalho com estágio em tecnologia da informação a 2 anos
+Trabalho com estágio em tecnologia da informação a 2 anos e a 1 ano como auxiliar de TI
 usando ferramentas e linguagens em níveis básicos como:
 
 C# <br>
