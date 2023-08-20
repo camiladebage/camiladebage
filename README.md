@@ -48,23 +48,3 @@ Java
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=power-automate&labelColor=0D1117)&nbsp;
 ![File Zilla](https://img.shields.io/badge/-FileZilla-0D1117?style=for-the-badge&logo=filezilla&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-
-##
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camiladebage&show_icons=true&count_private=true&hide_border=true&title_color=0075B5&icon_color=0075B5&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiladebage&layout=compact&hide_border=true&title_color=0075B5&text_color=0075B5&bg_color=0d1117" />
-</div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=camiladebage&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=camiladebage&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=footer"/>
-
-
-
-
-
-
