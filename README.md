@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0075B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Camila+Debage+de+Souza;Sou+de+Viradouro-SP,Brasil)](https://git.io/typing-svg)
 
 
@@ -48,6 +46,3 @@ Java
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0D1117?style=for-the-badge&logo=power-automate&labelColor=0D1117)&nbsp;
 ![File Zilla](https://img.shields.io/badge/-FileZilla-0D1117?style=for-the-badge&logo=filezilla&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0075B5&height=120&section=footer"/>
