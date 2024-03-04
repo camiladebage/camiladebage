@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0075B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Camila+Debage+de+Souza;Sou+de+Viradouro-SP,Brasil)](https://git.io/typing-svg)
-
-
 ## Entre em contato:
 * ![Gmail](https://img.shields.io/badge/Gmail-0075B5?style=flat&logo=gmail&logoColor=white) camiladebage@gmail.com
 * ![Discord](https://img.shields.io/badge/Discord-0075B5?style=flat&logo=discord&logoColor=white) Camila Debage#0934
